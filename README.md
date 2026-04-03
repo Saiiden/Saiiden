@@ -41,7 +41,7 @@ I am a Cyber Security Professional specifically in Red Teaming, with a mission t
 
 <br />
 
-> Tools are just instruments — the mind behind them is what truly matters.
+> Tools are just instruments, nevertheless the mind behind them is what truly matters.
 
 ---
 
