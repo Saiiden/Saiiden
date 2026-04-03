@@ -31,13 +31,6 @@ I am a Cyber Security Professional specifically in Red Teaming, with a mission t
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Nmap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nmap/nmap-original.svg" />
-<img align="left" alt="Burp Suite" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Securinets_-_Free_Online_Hacking_Games.png/1200px-Securinets_-_Free_Online_Hacking_Games.png" />
-<img align="left" alt="Metasploit" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/metasploit/metasploit-original.svg" />
-<img align="left" alt="Ghidra" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ghidra/ghidra-original.svg" />
-<img align="left" alt="Wireshark" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" />
-<img align="left" alt="Sliver" width="40px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/powershell.png" />
-<img align="left" alt="Mythic" width="40px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/powershell.png" />
 
 <br />
 
