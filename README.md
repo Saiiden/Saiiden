@@ -31,13 +31,11 @@ I am a Cyber Security Professional specifically in Red Teaming, with a mission t
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Nmap" width="40px" style="padding-right:10px;" src="https://nmap.org/images/sitelogo.png" />
+<img align="left" alt="Nmap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/file-icons/icons@master/svg/Nmap.svg" />
 <img align="left" alt="Metasploit" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/metasploit.svg" />
 <img align="left" alt="Wireshark" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/wireshark.svg" />
 <img align="left" alt="Burp Suite" width="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/burpsuite/FF6633" />
-<img align="left" alt="Ghidra" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/18407771" />
-<img align="left" alt="Sliver" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/74091596" />
-<img align="left" alt="Mythic" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/57998937" />
+
 
 <br clear="left" />
 
