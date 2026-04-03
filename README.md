@@ -16,7 +16,7 @@ I am a Cyber Security Professional specifically in Red Teaming, with a mission t
 ## Certifications
 
 ![CRTO](https://img.shields.io/badge/CRTO-Certified_Red_Team_Operator-FF0000?style=for-the-badge)
-![CNPen](https://img.shields.io/badge/CNPen-Certified_Professional_Ethical_Hacker-FF0000?style=for-the-badge)
+![CNPen](https://img.shields.io/badge/CNPen-Certified_Network_Pentester-FF0000?style=for-the-badge)
 ![CRTA](https://img.shields.io/badge/CRTA-Certified_Red_Team_Analyst-FF0000?style=for-the-badge)
 
 ---
