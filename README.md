@@ -8,16 +8,16 @@ I am a Cyber Security Professional specifically in Red Teaming, with a mission t
 
 ## Platform Status
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Saiiden-00FF00?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/public/users/410048)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Saiiden-FF0000?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Saiiden)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Saiiden-9FEF00?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/public/users/410048)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Saiiden-C11C1C?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Saiiden)
 
 ---
 
 ## Certifications
 
-![CRTO](https://img.shields.io/badge/CRTO-Certified_Red_Team_Operator-FF0000?style=for-the-badge)
-![CNPen](https://img.shields.io/badge/CNPen-Certified_Network_Pentester-FF0000?style=for-the-badge)
-![CRTA](https://img.shields.io/badge/CRTA-Certified_Red_Team_Analyst-FF0000?style=for-the-badge&logo=data:image/png)
+![CRTO](https://img.shields.io/badge/CRTO-Certified_Red_Team_Operator-C11111?style=for-the-badge)
+![CNPen](https://img.shields.io/badge/CNPen-Certified_Network_Pentester-C11111?style=for-the-badge)
+![CRTA](https://img.shields.io/badge/CRTA-Certified_Red_Team_Analyst-C11111?style=for-the-badge)
 
 ---
 
